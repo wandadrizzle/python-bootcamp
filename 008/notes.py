@@ -4,7 +4,7 @@ import my_formating
 print(my_formating.logo)
 
 def play_again():
-    again = input("Type 'yes' if you want to go again. Otherwise type 'no'.")
+    again = input("Type 'yes' if you want to go again. Otherwise type 'no'.\n")
     again = again.replace(" ","")
     again = again.lower()
 
