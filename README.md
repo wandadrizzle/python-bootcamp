@@ -9,3 +9,5 @@ Note: MISSED DAYS?
 23 June 2024 - I am reading My Sister, the Serial Killer by Oyinkan Braithwaite.
 
 27 June 2024 - I went to a family event, uMembeso kamalume.
+
+29 June 2024 - I went to umgcagco kamalume.
