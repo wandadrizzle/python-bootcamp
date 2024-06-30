@@ -11,3 +11,5 @@ Note: MISSED DAYS?
 27 June 2024 - I went to a family event, uMembeso kamalume.
 
 29 June 2024 - I went to umgcagco kamalume.
+
+30 June 2024 - We have no electricity.
